@@ -46,7 +46,6 @@ Verification: Confirmed that all records were accurately ingested into Azure Blo
 
 <img width="1864" height="1296" alt="SQL SERVER" src="https://github.com/user-attachments/assets/53ec69da-026e-4438-b5f6-78dcc0bc6d52" />
 
-<img width="2812" height="1160" alt="EMPLOYEE1 TABLE" src="https://github.com/user-attachments/assets/5a8d46ad-3dcb-416a-85a2-948176421574" />
 
 
 <img width="2838" height="1336" alt="COPY PIPELINE" src="https://github.com/user-attachments/assets/e10f0d60-7a97-4c4d-87f7-cf241a2fc469" />
@@ -56,4 +55,6 @@ Verification: Confirmed that all records were accurately ingested into Azure Blo
 <img width="2358" height="1428" alt="INTERGRATION RUNTIME" src="https://github.com/user-attachments/assets/638d2bcd-5edd-4778-ac02-e00b68fae3da" />
 
 <img width="2754" height="1472" alt="LINKED SERVICE" src="https://github.com/user-attachments/assets/1305b92c-c540-4d7b-83e7-ef01384b6ff8" />
+
+<img width="2812" height="1160" alt="EMPLOYEE1 TABLE" src="https://github.com/user-attachments/assets/5a8d46ad-3dcb-416a-85a2-948176421574" />
 
