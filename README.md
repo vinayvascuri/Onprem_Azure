@@ -13,9 +13,9 @@ Developed a secure, end-to-end data migration pipeline using Azure Data Factory 
 **Source: **On-Premise Microsoft SQL Server (Database: employee).
 
 **Gateway: **Self-Hosted Integration Runtime (onprem-azure-ir).
-**
+
 Orchestrator: **Azure Data Factory Pipeline (onprem_azure_pl).
-**
+
 Sink: **Azure Blob Storage (Container: target).
 
 **🛠 Technical Implementation**
@@ -27,7 +27,7 @@ Populated the table with structured records including EmployeeId, Name, Gender, 
 
 Verified data integrity locally before initiating the migration.
 
-**2. Hybrid Connectivity (The Bridge)****
+**2. Hybrid Connectivity (The Bridge)**
 Configured a Self-Hosted Integration Runtime on the local host to establish a secure outbound connection to Azure.
 
 Implemented Authentication Keys to register the node and authorize data transit without exposing the local database to the public internet.
@@ -43,3 +43,11 @@ Handled data serialization, converting SQL records into a delimited .txt format 
 Successful Execution: The pipeline completed successfully with a total duration of 22 seconds.
 
 Verification: Confirmed that all records were accurately ingested into Azure Blob Storage by reviewing the output file schema and record count.
+
+<img width="1864" height="1296" alt="SQL SERVER" src="https://github.com/user-attachments/assets/53ec69da-026e-4438-b5f6-78dcc0bc6d52" />
+
+
+
+
+
+
